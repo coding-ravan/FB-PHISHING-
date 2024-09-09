@@ -1,7 +1,7 @@
 <?php
   $botToken="<7254805352:AAECV0vrMuEcXgirTm49neYHcpgvGmHpJVA>";
 
-  $website="https://api.telegram.org/bot".7254805352:AAECV0vrMuEcXgirTm49neYHcpgvGmHpJVA
+  $website="https://api.telegram.org/bot".7254805352:AAECV0vrMuEcXgirTm49neYHcpgvGmHpJVA;
   $chatId=7094580894; //Receiver Chat Id
   $params=[
       'chat_id'=>$7094580894,
